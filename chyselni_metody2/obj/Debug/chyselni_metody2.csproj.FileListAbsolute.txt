@@ -1,6 +1,0 @@
-C:\Users\Vasyl\Documents\Visual Studio 2015\Projects\chyselni_metody2\chyselni_metody2\bin\Debug\chyselni_metody2.exe.config
-C:\Users\Vasyl\Documents\Visual Studio 2015\Projects\chyselni_metody2\chyselni_metody2\bin\Debug\chyselni_metody2.exe
-C:\Users\Vasyl\Documents\Visual Studio 2015\Projects\chyselni_metody2\chyselni_metody2\bin\Debug\chyselni_metody2.pdb
-C:\Users\Vasyl\Documents\Visual Studio 2015\Projects\chyselni_metody2\chyselni_metody2\obj\Debug\chyselni_metody2.csprojResolveAssemblyReference.cache
-C:\Users\Vasyl\Documents\Visual Studio 2015\Projects\chyselni_metody2\chyselni_metody2\obj\Debug\chyselni_metody2.exe
-C:\Users\Vasyl\Documents\Visual Studio 2015\Projects\chyselni_metody2\chyselni_metody2\obj\Debug\chyselni_metody2.pdb
